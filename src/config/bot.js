@@ -16,7 +16,7 @@ export const botConfig = {
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
     // 0 = Playing
-    // 1 = Streaming
+    // 1 = 1217873652314542141
     // 2 = Listening
     // 3 = Watching
     // 4 = Custom
@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: '
+        name: wlcom
         // Activity type number (0 = Playing).
         type: 2,
       },
